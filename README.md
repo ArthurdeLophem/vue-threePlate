@@ -1,7 +1,27 @@
-# Vue 3 + Vite
+# Vue 3 + three
+this boilerplate makes it easy to use three in vue by using oop. you'll save plenty of time, say thanks.
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
 
-## Recommended IDE Setup
+<p>&nbsp;</p>
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
+### how to use
+
+install locally
+````
+git clone
+````
+
+explore to the filebase
+````
+cd vue-threePlate
+````
+
+install packages
+````
+npm i
+````
+
+run the thing (explore the possibilities of threes)
+````
+npm run dev
+````
